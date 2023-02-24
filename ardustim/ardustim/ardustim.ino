@@ -121,6 +121,7 @@ wheels Wheels[MAX_WHEELS] = {
   { Toyota_4AGZE_friendly_name, toyota_4AGZE, 0.333, 144, 720 },
   { Suzuki_DRZ400_friendly_name, suzuki_DRZ400,0.6, 72, 360},
   { Jeep_2000_friendly_name, jeep_2000, 1.5, 360, 720},
+  { ford_Barra_friendly_name, ford_Barra, 3.0, 720, 720 },
 };
 
 /* Initialization */
